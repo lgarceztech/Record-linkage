@@ -15,7 +15,7 @@ This project is implemented using Python, and the development and testing were c
 
 ## Further Information
 
-For a detailed, step-by-step description of the project, as well as information on the key libraries and frameworks utilized, please visit the project's comprehensive tutorial in the `Projects` section at [garcez.tech](https://garcez.tech).
+For a detailed, step-by-step description of the project, as well as information on the key libraries and frameworks utilized, please visit the project's comprehensive tutorial in the `Projects` section at [garcez.tech](https://garcez.tech). This dataset is a fabricated collection of data based on data from the BLS and the BEA. It was created specifically for demonstration purposes in this project. It is entirely fictitious and designed to resemble real-world data while being completely generated for illustrative use. 
 
 ---
 
